@@ -1,0 +1,1720 @@
+{
+  "name": "Crop Insurance And Disaster Assistance",
+  "intents": [
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "What is your favorite joke?"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "I'm bored"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "benefits_crop_insurance",
+      "examples": [
+        {
+          "text": "how crop insurance will benefit me ?"
+        },
+        {
+          "text": "how to recover from losses after disaster"
+        },
+        {
+          "text": "what are advantages of PMFBY"
+        },
+        {
+          "text": "How applying for PMFBY will help me"
+        },
+        {
+          "text": "how crop insurance will help me"
+        },
+        {
+          "text": "what are benefits"
+        },
+        {
+          "text": "why should I apply for PMFBY"
+        },
+        {
+          "text": "Why should I take crop insurance"
+        },
+        {
+          "text": "why should I apply for crop insurance"
+        },
+        {
+          "text": "How to build back better after disaster"
+        },
+        {
+          "text": "How ANAND platform will help me"
+        },
+        {
+          "text": "* ANAND *"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Insurance_Provider_Enquiry",
+      "examples": [
+        {
+          "text": "Can you tell me about different insurance providers in my area"
+        },
+        {
+          "text": "Can you provide list of insurance providers"
+        },
+        {
+          "text": "which insurance provider would you suggest for me"
+        },
+        {
+          "text": "any recommendation on insurance provider for me"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "crop_insurance_enquiry",
+      "examples": [
+        {
+          "text": "I want a quote for insurance"
+        },
+        {
+          "text": "disaster insurance"
+        },
+        {
+          "text": "* crop insurance *"
+        },
+        {
+          "text": "looking for a crop insurance"
+        },
+        {
+          "text": "i want a crop insurance"
+        },
+        {
+          "text": "i want a cropinsurance"
+        },
+        {
+          "text": "* insurance for crop *"
+        },
+        {
+          "text": "I am looking for a crop insurance"
+        },
+        {
+          "text": "insurance"
+        },
+        {
+          "text": "how can I get a crop insurance"
+        },
+        {
+          "text": "can I get a crop insurance"
+        },
+        {
+          "text": "What is crop insurance"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Hate you"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "Premium_Enquiry",
+      "examples": [
+        {
+          "text": "how much premium will I have to pay"
+        },
+        {
+          "text": "Who will remind me for premium payment"
+        },
+        {
+          "text": "What if miss premium payment"
+        },
+        {
+          "text": "Why the premium amount is so high"
+        },
+        {
+          "text": "how much amount will I have to pay"
+        },
+        {
+          "text": "can you provide more details on premium calculation"
+        },
+        {
+          "text": "how can I pay premium amount"
+        },
+        {
+          "text": "what will be the premium amount"
+        },
+        {
+          "text": "what is assured sum as per PMFBY"
+        },
+        {
+          "text": "what will be farmer's share"
+        },
+        {
+          "text": "How much will be my share out of total premium amount"
+        },
+        {
+          "text": "what will be the total sum assured"
+        },
+        {
+          "text": "what is full insured amount"
+        },
+        {
+          "text": "what is coverage amount in total"
+        },
+        {
+          "text": "what sum is assured"
+        },
+        {
+          "text": "Can you calculate premium amount for me"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "I'd like proof of a secure chat"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "Are you safe on hackers?"
+        },
+        {
+          "text": "Are you safe?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "Alright !"
+        },
+        {
+          "text": "Thanks buddy"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You the man"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "Insurance_Policy_Inquiry",
+      "examples": [
+        {
+          "text": "Does my dental filling coverage require me to pay up first before it takes effect?"
+        },
+        {
+          "text": "I want to know theft of personal belongs during travel are covered under my current policy"
+        },
+        {
+          "text": "Can I be compensated for all the loss?"
+        },
+        {
+          "text": "Are pre-existing conditions covered?"
+        },
+        {
+          "text": "Am I covered for disability?"
+        },
+        {
+          "text": "What is max allowance on hospital room visit?"
+        },
+        {
+          "text": "What is Basic Life Cover"
+        },
+        {
+          "text": "What is Fixed income protection"
+        },
+        {
+          "text": "Tell me more about increasing income protection"
+        },
+        {
+          "text": "What is the cost of health coverage?"
+        },
+        {
+          "text": "What are the sub limits?"
+        },
+        {
+          "text": "What are the exclusions in my personal liability insurance?"
+        },
+        {
+          "text": "What amount I have to pay if I get a business income coverage?"
+        },
+        {
+          "text": "So what services are not a part of personal liability policy?"
+        },
+        {
+          "text": "Is there any way to know the travel theft can be covered under my running policy?"
+        },
+        {
+          "text": "Is personal injury protection costly?"
+        },
+        {
+          "text": "How much does emergency roadside cost?"
+        },
+        {
+          "text": "Do you apply deductions on each product?"
+        },
+        {
+          "text": "Does my patient record get factored into the cost?"
+        },
+        {
+          "text": "Coverage limit inquiry"
+        },
+        {
+          "text": "Can you share a list of policy related exclusion?"
+        },
+        {
+          "text": "Why are ambulance charges not considered?"
+        },
+        {
+          "text": "Why is this feature so expensive?"
+        }
+      ]
+    },
+    {
+      "intent": "Criteria_crop_insurance",
+      "examples": [
+        {
+          "text": "who is eligible for crop insurance"
+        },
+        {
+          "text": "what is the criteria for PMFBY"
+        },
+        {
+          "text": "what is the criteria for taking crop insurance"
+        },
+        {
+          "text": "who can apply for PMFBY"
+        },
+        {
+          "text": "am I eligible for PMFBY"
+        },
+        {
+          "text": "is it compulsory for me"
+        },
+        {
+          "text": "who can apply for crop insurance"
+        },
+        {
+          "text": "what is the eligibility for PMFBY"
+        },
+        {
+          "text": "who is eligible for PMFBY"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "weather_updates",
+      "examples": [
+        {
+          "text": "Any update on weather"
+        },
+        {
+          "text": "do I need to worry about weather"
+        },
+        {
+          "text": "what is the temperature"
+        },
+        {
+          "text": "* temperature *"
+        },
+        {
+          "text": "* cyclone *"
+        },
+        {
+          "text": "* weather data *"
+        },
+        {
+          "text": "* weather updates *"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Is this a computer?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Can I talk to someone?"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "rain_weather_data",
+      "examples": [
+        {
+          "text": "when will rain start"
+        },
+        {
+          "text": "can you provide data on rain"
+        },
+        {
+          "text": "any update on rain"
+        },
+        {
+          "text": "* rain *"
+        },
+        {
+          "text": "Will it rain today"
+        },
+        {
+          "text": "how much will it rain this season"
+        },
+        {
+          "text": "when will rain end"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "weather_data_season",
+      "examples": [
+        {
+          "text": "how much will it rain"
+        },
+        {
+          "text": "Is there any update"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Coverage_enquiry",
+      "examples": [
+        {
+          "text": "what is covered under this scheme"
+        },
+        {
+          "text": "What losses are covered under PMFBY"
+        },
+        {
+          "text": "* coverage *"
+        },
+        {
+          "text": "* Risks covered under the scheme *"
+        },
+        {
+          "text": "What risks are covered under the scheme"
+        },
+        {
+          "text": "Are localised calamities or losses covered under this scheme"
+        },
+        {
+          "text": "What is risk profile for PMFBY"
+        },
+        {
+          "text": "tell me more about risk coverage under this scheme"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "PMFBY_Enquiry",
+      "examples": [
+        {
+          "text": "can you explain more about PMFBY"
+        },
+        {
+          "text": "crop insurance for Indian farmers"
+        },
+        {
+          "text": "tell me more about PMFBY"
+        },
+        {
+          "text": "Give me more details about PMFBY"
+        },
+        {
+          "text": "what is PMFBY"
+        },
+        {
+          "text": "* PMFBY  *"
+        },
+        {
+          "text": "Is there any crop insurance facility in India"
+        },
+        {
+          "text": "what is the objective of PMFBY"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "Where were you born?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "Insurance_View_Policy",
+      "examples": [
+        {
+          "text": "Tell me everything is covered"
+        },
+        {
+          "text": "Show policy"
+        },
+        {
+          "text": "What is the start date of insurance?"
+        },
+        {
+          "text": "Read contract"
+        },
+        {
+          "text": "Pull up my policy please"
+        },
+        {
+          "text": "Please show me my policy"
+        },
+        {
+          "text": "List all risks"
+        },
+        {
+          "text": "I would prefer to view the contents of the contract"
+        },
+        {
+          "text": "I want to look at policy terms."
+        },
+        {
+          "text": "How do I download the policy to see?"
+        },
+        {
+          "text": "Can you please show me my insurance policy?"
+        },
+        {
+          "text": "Can I view the details of the agreement?"
+        },
+        {
+          "text": "What's the full amount of things which the plan covers?"
+        },
+        {
+          "text": "See contract"
+        },
+        {
+          "text": "What is link to download insurance policy?"
+        },
+        {
+          "text": "View policy"
+        },
+        {
+          "text": "Where is the contract for insurance?"
+        },
+        {
+          "text": "What is the expiration date of my health insurance?"
+        },
+        {
+          "text": "What's in my plan?"
+        },
+        {
+          "text": "Terms and conditions info."
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "insurance",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Crop yield insurance",
+          "synonyms": [
+            "PMFBY",
+            "Pradhan Mantri Fasal Bima Yojana",
+            "parametric insurance",
+            "weather based insurance"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "bye",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "bye",
+          "synonyms": [
+            "have a good day",
+            "thank you",
+            "sayonara",
+            "see you"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "apply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "apply",
+          "synonyms": [
+            "apply",
+            "buy",
+            "purchase"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "season",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "season",
+          "synonyms": [
+            "year",
+            "forecast"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "notified_crop",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "notified crop",
+          "synonyms": [
+            "defined crop",
+            "crop"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "details",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "explain",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "about",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "what is",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "weather",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "weather",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "notified_area",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "area",
+          "synonyms": [
+            "unit area of insurance",
+            "unit area",
+            "notified area",
+            "defined area"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "frequency",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "yearly",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "monthly",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "quarterly",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "half yearly",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "api_version": {
+      "major_version": "v1",
+      "minor_version": "2018-07-10"
+    }
+  },
+  "description": "Dialog Skill for Crop Insurance Support and Disaster Assistance based on weather updates",
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Crop Insurance will get you covered for losses due to natural calamities or weather anomalies. This will help you build back better and recover from loan burdens. <br><br> PMFBY is new scheme with Increased coverage, Reduction in Premium, Increase in sum insured, Increase in Risk Coverage <br><br>\nThis ANAND platform provides you a trusted, transparent and secure ecosystem for crop insurance with latest technology use which enables real time data and faster claim settlements directly in your bank account in case of disasters"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#benefits_crop_insurance",
+      "dialog_node": "node_10_1563745646405",
+      "previous_sibling": "node_9_1563743212075"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi ! How can I help you ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_5_1563740141241",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The PMFBY Scheme shall be implemented on an ‘Area Approach basis’ i.e., Defined Areas for each notified crop. Defined Area i.e. the Unit Area of Insurance can be a Geo-Fenced/Geo-mapped region having homogeneous Risk Profile for the notified crop."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@notified_area || @notified_crop && @details",
+      "dialog_node": "node_7_1563741961899",
+      "previous_sibling": "node_6_1563740378911"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "All farmers growing notified crops in a notified area during the season who have insurable interest in the crop are eligible. <br><br> All farmers availing Seasonal Agricultural Operations (SAO) loans from Financial Institutions (i.e. loanee farmers) for the notified crop(s) would be covered compulsorily. <br><br>The Scheme would be optional for the non-loanee farmers."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Criteria_crop_insurance",
+      "dialog_node": "node_6_1563740378911",
+      "previous_sibling": "node_4_1563738547030"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Following stages of the crop and risks leading to crop loss are covered under the scheme.\n\nPrevented Sowing/ Planting Risk:\nInsured area is prevented from sowing/ planting due to deficit rainfall or adverse seasonal conditions\nStanding Crop (Sowing to Harvesting):\nComprehensive risk insurance is provided to cover yield losses due to non- preventable risks, viz. Drought, Dry spells, Flood, Inundation, Pests and Diseases, Landslides, Natural Fire and Lightening, Storm, Hailstorm, Cyclone, Typhoon, Tempest, Hurricane and Tornado.\nPost-Harvest Losses:\ncoverage is available only up to a maximum period of two weeks from harvesting for those crops which are allowed to dry in cut and spread condition in the field after harvesting against specific perils of cyclone and cyclonic rains and unseasonal rains.\nLocalized Calamities:\nLoss/ damage resulting from occurrence of identified localized risks of hailstorm, landslide, and Inundation affecting isolated farms in the notified area.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Coverage_enquiry",
+      "dialog_node": "node_8_1563742997904",
+      "previous_sibling": "node_7_1563741961899"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The Pradhan Mantri Fasal Bima Yojana (Prime Minister's Crop Insurance Scheme) was launched by Prime Minister of India Narendra Modi on 13 February 2016. It envisages a uniform premium of only 2 per cent to be paid by farmers for Kharif crops, and 1.5 per cent for Rabi crops. The premium for annual commercial and horticultural crops will be 5 per cent. <br><br>Objective:\nPradhan Mantri Fasal Bima Yojana (PMFBY) aims at supporting sustainable production in agriculture sector by way of -\n\na) Providing financial support to farmers suffering crop loss/damage arising out of unforeseen events\n\nb) Stabilizing the income of farmers to ensure their continuance in farming\n\nc) Encouraging farmers to adopt innovative and modern agricultural practices\n\nd) Ensuring flow of credit to the agriculture sector; which will contribute to food security, crop diversification and enhancing growth and competitiveness of agriculture sector besides protecting farmers from production risks."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#PMFBY_Enquiry",
+      "dialog_node": "node_4_1563738547030",
+      "previous_sibling": "node_2_1563735126486"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_3_1563772361306"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great. I guess that answered your query. Have a good day."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#General_Positive_Feedback",
+      "dialog_node": "node_3_1563738088329",
+      "previous_sibling": "node_1_1563771360439"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Today's weather data : <br> Temperature - 29 Degree C, <br> Humidity - 82%, <br> Wind - 16km/hr"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#weather_updates",
+      "dialog_node": "node_2_1563772126885",
+      "previous_sibling": "node_3_1563738088329"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Based on your location, here is list of Insurance Provider in your area - <br>NEW INDIA ASSURANCE COMPANY\ttoll free number 18002091415<br>ORIENTAL INSURANCE\ttoll free number 1800118485"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Insurance_Provider_Enquiry",
+      "dialog_node": "node_1_1563771360439",
+      "previous_sibling": "node_10_1563745646405"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Crop insurance is purchased by agricultural producers, and subsidized by the federal government, to protect against either the loss of their crops due to natural disasters, such as hail, drought, and floods, or the loss of revenue due to declines in the prices of agricultural commodities. <br> <br>The Pradhan Mantri Fasal Bima Yojana (Prime Minister's Crop Insurance Scheme) was launched by Prime Minister of India Narendra Modi on 13 February 2016. It envisages a uniform premium of only 2 per cent to be paid by farmers for Kharif crops, and 1.5 per cent for Rabi crops. The premium for annual commercial and horticultural crops will be 5 per cent. <br> <br> To Apply for crop insurance you can use this ANAND  application platform."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#crop_insurance_enquiry",
+      "dialog_node": "node_2_1563735126486",
+      "previous_sibling": "node_5_1563740141241"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The premium amount for Farmer's share will be auto deducted from Farmer's bank account. For more details on premium calculation in your case please refer Insurance Premium Calculator from below link - \nhttps://pmfby.gov.in/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Premium_Enquiry",
+      "dialog_node": "node_9_1563743212075",
+      "previous_sibling": "node_8_1563742997904"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our data shows Rain is going to come late this year for your location. Be prepared for this situation accordingly. I would suggest you to opt for Crop Insurance to bear with the losses"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@weather || #weather_data_season && @season",
+      "dialog_node": "node_3_1563772361306",
+      "previous_sibling": "node_2_1563772126885"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello $user, I’m a ANAND, I can help you with Weather Data and any queries related to Crop Insurance"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "workspace_id": "e4068753-6886-41ee-8941-6e0f6165b407",
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    }
+  },
+  "learning_opt_out": false,
+  "status": "Available"
+}
