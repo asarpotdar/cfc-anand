@@ -1,5 +1,5 @@
 
-Assistance Network for Agriculture and Natural Disaster - A AI and Blockchain solution for Disaster Preparedness And Recovery
+Assistance Network for Agriculture and Natural Disaster (A.N.A.N.D.) - An AI and Blockchain solution for Disaster Preparedness And Recovery
 
 Background & Goal
 
