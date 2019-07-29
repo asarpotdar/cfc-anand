@@ -8,7 +8,7 @@ Disasters jeopardize agricultural production and development and often have casc
 More than 80 percent of the damage and losses caused by drought is to agriculture, especially livestock and crop production
 challenges we see at high level: (i) improving information systems at the national and local levels; and (ii) further strengthening resilience in agriculture
 
-<b>Disaster Preparedness & Building Back Better Aftermath –</b><br>
+<b>Disaster Preparedness & Building Back Better Aftermath</b><br>
 As mentioned, better information systems are necessary for better disaster preparedness for Agricultural Sector.
 Apart from that a protection scheme that would mitigate the risks to the farmers’ yield(s) is critical to sustaining their livelihood. Crop Insurance is a critical risk mitigation tool for the agricultural economy. However in India the penetration and awareness is not there for govt schemes which is hindering efforts for providing cushion and risk coverage for farmers against the various natural disasters.
 The challenge is how to address – <br>
