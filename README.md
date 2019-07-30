@@ -26,7 +26,8 @@ Overall lack of awareness about Crop Insurance concept and Adoption of same<br>
 Absence of an efficient ecosystem across the entire insurance process<br>
 Lack of transparency and speed in claims administration which is hindering efforts of Farmer’s recovery post disaster and in building trust in overall ecosystem <br>
 
-
+<b>Solution Design and Architecture</b><br>
+Please refer files uploaded on git repo for all the details<br>
 
 <b>Key Features</b><br>
 
@@ -39,6 +40,9 @@ The platform will facilitate automatic, speedy and accurate claim settlements th
 All payments to be directly credited to the farmer’s bank accounts. Also premium payment can be automatically triggered from Farmer’s bank account. UPI payment interface can be used for these transactions.
 
 Personalized experience through Speech To Text & Text to Speech services for easy and effective access to information
+
+<b>Solution Roadmap</b><br>
+Please refer roadmap uploaded on git repo for all the details<br>
 
 <b>YouTube Demo Link</b><br>
 
