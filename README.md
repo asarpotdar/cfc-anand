@@ -13,7 +13,7 @@ As mentioned, better information systems are necessary for better disaster prepa
 Apart from that a protection scheme that would mitigate the risks to the farmers’ yield(s) is critical to sustaining their livelihood. Crop Insurance is a critical risk mitigation tool for the agricultural economy. However in India the penetration and awareness is not there for govt schemes which is hindering efforts for providing cushion and risk coverage for farmers against the various natural disasters.
 The challenge is how to address – <br>
 <b>Better Disaster Preparedness for Farmers through Weather/ Disaster Alerts</b><br>
-<b>Better Awareness and Outreach for Crop Insurance Schemes<b/><br>
+<b>Better Awareness and Outreach for Crop Insurance Schemes</b><br>
 <b>Recovery of Farmers after Natural Disasters and getting their life back to normal as early as possible</b><br>
 
 The objective is to develop and establish a network addressing above mentioned challenges for overall better Disaster Preparedness and Recovery
